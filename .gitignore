@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
+.playwright-cli/

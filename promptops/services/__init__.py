@@ -1,0 +1,1 @@
+"""Application services: business rules over repositories + OpenCode adapter."""
